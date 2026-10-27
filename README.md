@@ -2,7 +2,7 @@
 
 Poll results from the attendees of Mobile Native Thailand Meetup #4 (21 October 2026).
 
-Live page: https://akexorcist.github.io/mobile-native-thailand-meetup-4-survey-report/
+Live page: https://thailandandroiddeveloper.github.io/mobile-native-thailand-meetup-4-survey-report/
 
 - **Results** tab: every question with the share of people who chose each option.
 - **Post images** tab: the 1080 × 1350 poster for each question.
